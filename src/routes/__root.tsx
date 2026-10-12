@@ -78,14 +78,19 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
-      { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { title: "Manav Gautam | Project Skyward" },
+      {
+        name: "description",
+        content: "The personal portfolio of Manav Gautam, a student inspired by aviation and technology.",
+      },
+      { name: "author", content: "Manav Gautam" },
+      { property: "og:title", content: "Manav Gautam | Project Skyward" },
+      {
+        property: "og:description",
+        content: "A personal journey through education, early projects, and a passion for aviation.",
+      },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@Lovable" },
     ],
     links: [
       {

@@ -1,0 +1,3 @@
+- [x] Build the Skyward one-page portfolio with its section navigation and original aviation artwork.
+- [x] Add responsive behavior, reduced-motion support, and interactive project details.
+- [ ] Verify the preview at desktop and mobile sizes, including navigation and project interactions.
