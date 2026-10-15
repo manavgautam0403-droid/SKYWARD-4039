@@ -286,8 +286,8 @@ function Index() {
         </div>
       </section>
 
-      <section className="comms-band" aria-label="Future AI chatbot">
-        <div className="section-inner comms-inner"><div className="comms-symbol"><Radio size={22} /></div><div className="comms-copy"><span className="section-label">FUTURE FLIGHT ASSISTANT</span><h2>AI CO-PILOT MODULE</h2><p>A space reserved for a future Botpress chatbot integration.</p></div><div className="comms-state"><span className="record-dot" /> STANDBY <span>·</span> INTEGRATION RESERVED</div></div>
+      <section className="comms-band" aria-label="AI chatbot">
+        <div className="section-inner comms-inner"><div className="comms-symbol"><Radio size={22} /></div><div className="comms-copy"><span className="section-label">FLIGHT ASSISTANT</span><h2>AI CO-PILOT MODULE</h2><p>Have a question? The chat assistant in the corner is ready to help.</p></div><div className="comms-state"><span className="record-dot" /> ONLINE <span>·</span> CHAT AVAILABLE</div></div>
       </section>
 
       <section className="content-section contact-section" id="contact" data-reveal aria-labelledby="contact-title">
