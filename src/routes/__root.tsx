@@ -93,7 +93,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:card", content: "summary_large_image" },
     ],
     scripts: [
-      { src: "https://cdn.botpress.cloud/webchat/v5.0/inject.js" },
+      { src: "https://cdn.botpress.cloud/webchat/v3.3/inject.js" },
       {
         src: "https://files.bpcontent.cloud/2026/10/13/15/20261013155237-L8EI7HB6.js",
         defer: true,
